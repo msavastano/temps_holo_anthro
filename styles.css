@@ -1,0 +1,15 @@
+#myCanvas{
+  background-color:white;
+}
+
+#canDiv{
+  width:1000px;
+  float:left;
+}
+
+#abDiv{
+  border:1px solid black;
+  float:left;
+  height:400px;
+  width:400px;
+}
